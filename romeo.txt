@@ -8,6 +8,6 @@ JULIET: Ay, me!
 
 ROMEO: What light through yonder window is broken?
 
-JULIET: Why for are you Romeo?!
+JULIET: Wherefor art thou Romeo?
 
 THE END
